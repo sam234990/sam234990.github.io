@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hong Kong-CN"
-title                    : "Shuzheng Gao"
+locale                   : "Shen Zhen-CN"
+title                    : "Shu Wang"
 title_separator          : "-"
-name                     : &name "Shuzheng Gao"
-description              : &description "The first year Ph.D. student @ARISE, CUHK, advised by Prof. Michael R. Lyu."
-url                      : https://shuzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shu Wang"
+description              : &description "The second year Ph.D. student in CUHKSZ, advised by Prof. Yixiang Fang."
+url                      : https://SamShu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shuzhenggao/shuzhenggao.github.io" # TODO
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "sam234990/SamShu.github.io" # TODO
+teaser                   : "ski.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuzheng Gao"
-  avatar           : "me.jpg"
-  bio              : "The first year Ph.D. student @ARISE, CUHK, advised by Prof. Michael R. Lyu."
-  location         : "Hong Kong, China"
+  name             : "Shu Wang"
+  avatar           : "ski.png"
+  bio              : "The second year Ph.D. student in CUHKSZ, advised by Prof. Yixiang Fang."
+  location         : "Shen Zhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=K-2YxegAAAAJ&hl=zh-CN"
-  email            : "szgao98@gmail.com"
+  googlescholar    : ""
+  email            : "shuwang3@link.cuhk.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shuzhenggao"
+  github           : "sam234990"
   google_plus      :
   keybase          :
   instagram        :
