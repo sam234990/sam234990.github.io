@@ -10,64 +10,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, 2023-2027 (expected)
-  * The Chinese University of Hong Kong, Hong Kong, China
-  * Supervisor: Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home)
+* Ph.D. in Computer Science, 2023-2028 (expected)
+  * The Chinese University of Hong Kong, Shenzhen, Shenzhen, China
+  * Supervisor: Prof. [Yixiang Fang](https://fangyixiang.github.io/)
   
-* M.E. in Computer Science and Technology, 2021-2023
-  * Harbin Institute of Technology, Shenzhen, China
-  * Supervisor: Prof. [Cuiyun Gao](https://cuiyungao.github.io/)
-
-* B.E. in Cyberspace Security, 2017-2021
-  * Harbin Institute of Technology, Weihai, China
-  * Major GPA: 91.98/100 (Ranking: 1/34)
+* B.E. in Data Science And Big Data Technology, 2019-2023
+  * Northwestern Polytechnical University, Xi'an, China
+  * Overall GPA: 3.86/4.1 (Ranking: 1/26)
 
 Experience
 ======
 
-
-* Spet. 2022 - June 2023: Research Assistant
-  * ARISE Lab, The Chinese University of Hong Kong, Hong Kong, China.
-  * Working on code intelligence
-  * Advisor: Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home)
-
 * March 2021 - Spet. 2021: Research Intern
-  * Huawei Noah Ark Lab, ShenZhen, China.
-  * Working on long-tailed image classification
-  * Advisor: Dr. Pengyun Wang
+  * Huawei Cloud PaaS Technology Innovation Lab, ShenZhen, China.
+  * Working on entity resolution for domain-specific knowledge graph
 
 
 # Teaching
 Courses I served as a teaching assistant.  
-- COMP 2005 Digital Logic Design:
-  - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen
-
-- ENGG 1100C Problem Solving By Programming:
-  - 2023 Fall, Department of Computer Science and Engineering, The Chinese University of Hong Kong  
-
-- CSCI 3100 Software Engineering:
-  - 2024 Spring, Department of Computer Science and Engineering, The Chinese University of Hong Kong
-
-
-# Academic service
-
-- Reviewer
-  - Journal: TOSEM, KAIS
-  
-
-- Sub-reviewer
-  - Journal: TOSEM, TSE, TIFS, ASEJ, 
-  - Conference: ISSTA 2024, FSE 2024, ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
-
+- CSC 3100 Data Structure:
+  - 2023 Spring, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+  - 2023 Fall, School of Data Science, The Chinese University of Hong Kong, Shenzhen
 
 
 Honors and Awards
 ======
 
-- Postgraduate Studentship Award, CUHK, 2023.
-- Distinguished Paper Award, ASE-Inch, 2023.
-- Best Student Paper Award, ACAIT, 2022.
-- First Prize Postgraduate Scholarship, HITSZ 2022.
-- Outstanding Graduates of Harbin Institute of Technology, 2021.
-- Meritorious Winner, Mathematics Contest in Modeling, 2020.
-- National Scholarship, Ministry of Education 2019.
+- Outstanding Graduates of Northwestern Polytechnical University, 2023
+- National Scholarship, Ministry of Education, 2019
