@@ -11,9 +11,9 @@ title                    : "Shu Wang"
 title_separator          : "-"
 name                     : &name "Shu Wang"
 description              : &description "The second year Ph.D. student in CUHKSZ, advised by Prof. Yixiang Fang."
-url                      : https://SamShu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sam234990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sam234990/SamShu.github.io" # TODO
+repository               : "sam234990/sam234990.github.io" # TODO
 teaser                   : "ski.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shu Wang"
+  name             : "Shu Wang (王澍)"
   avatar           : "ski.png"
   bio              : "The second year Ph.D. student in CUHKSZ, advised by Prof. Yixiang Fang."
   location         : "Shen Zhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : # ""
   email            : "shuwang3@link.cuhk.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sam234990"
+  github           : "https://github.com/sam234990"
   google_plus      :
   keybase          :
   instagram        :
