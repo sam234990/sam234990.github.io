@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student at the Department of Computer Science and Engineering, [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). I got my Master's degree from Harbin Institute of Technology Shenzhen in June 2023, under the supervision of Prof. [Cuiyun Gao](https://cuiyungao.github.io/). Before that, I received my Bachelor's degree from Harbin Institute of Technology Weihai in June 2021. My  research interests mainly focus on software engineering and code intelligence.
+I'm a second-year Ph.D. student at the School of Data Science, [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/). I received my Bachelor's degree from Northwestern Polytechnical University in June 2023. My research interests mainly focus on graph data management and graph mining.
 
 
 <div style='display: none'>
