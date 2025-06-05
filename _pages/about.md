@@ -17,6 +17,7 @@ I'm a second-year Ph.D. student at the School of Data Science, [The Chinese Univ
 _**Shu Wang**_, Yixiang Fang and Wensheng Luo
 
 # Selected Awards
-
+- Outstanding TA awards of The Chinese University of Hong Kong, Shenzhen, 2024
+- Outstanding Scholarship of The Chinese University of Hong Kong, Shenzhen, 2024
 - Outstanding Graduates of Northwestern Polytechnical University, 2023
 - National Scholarship, Ministry of Education, 2019
