@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student at the School of Data Science, [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/). I received my Bachelor's degree from Northwestern Polytechnical University in June 2023. My research interests mainly focus on graph data management and graph mining.
+I'm a third-year Ph.D. student at the School of Data Science, [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/). I received my Bachelor's degree from Northwestern Polytechnical University in June 2023. My research interests mainly focus on graph data management and graph mining.
 
 
 # Selected Publications 

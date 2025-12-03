@@ -29,8 +29,12 @@ Experience
 # Teaching
 Courses I served as a teaching assistant.  
 - CSC 3100 Data Structure:
-  - 2023 Spring, School of Data Science, The Chinese University of Hong Kong, Shenzhen
   - 2023 Fall, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+  - 2023 Spring, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+  - 2024 Fall, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+  - 2025 Fall, School of Data Science, The Chinese University of Hong Kong, Shenzhen
+- DDA 2001 Introduction to Data Science:
+  - 2024 Spring, School of Data Science, The Chinese University of Hong Kong, Shenzhen
 
 
 Honors and Awards
